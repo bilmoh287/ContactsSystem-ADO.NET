@@ -4,3 +4,9 @@ C:\Users\bilmo\source\repos\ContactsDataAccessLayer\obj\Debug\ContactsDataAccess
 C:\Users\bilmo\source\repos\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\bilmo\source\repos\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
 C:\Users\bilmo\source\repos\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb

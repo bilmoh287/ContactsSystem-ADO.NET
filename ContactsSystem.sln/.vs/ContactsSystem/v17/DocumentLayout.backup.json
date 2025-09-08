@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\bilmo\\source\\repos\\ContantSystem ADO.NET\\ContactsSystem.sln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{707E3D46-86D9-4E0B-8A9A-7299B4FB33A3}|ContactsPresentationLayer\\ContactsPresentationLayer.csproj|c:\\users\\bilmo\\source\\repos\\contantsystem ado.net\\contactssystem.sln\\contactspresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{707E3D46-86D9-4E0B-8A9A-7299B4FB33A3}|ContactsPresentationLayer\\ContactsPresentationLayer.csproj|solutionrelative:contactspresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{707E3D46-86D9-4E0B-8A9A-7299B4FB33A3}|ContactsPresentationLayer\\ContactsPresentationLayer.csproj|c:\\users\\bilmo\\source\\repos\\contantsystem ado.net\\contactssystem.sln\\contactspresentationlayer\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707E3D46-86D9-4E0B-8A9A-7299B4FB33A3}|ContactsPresentationLayer\\ContactsPresentationLayer.csproj|solutionrelative:contactspresentationlayer\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E3D46-86D9-4E0B-8A9A-7299B4FB33A3}|ContactsPresentationLayer\\ContactsPresentationLayer.csproj|c:\\users\\bilmo\\source\\repos\\contantsystem ado.net\\contactssystem.sln\\contactspresentationlayer\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{707E3D46-86D9-4E0B-8A9A-7299B4FB33A3}|ContactsPresentationLayer\\ContactsPresentationLayer.csproj|solutionrelative:contactspresentationlayer\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmListContacts.cs",
+              "DocumentMoniker": "C:\\Users\\bilmo\\source\\repos\\ContantSystem ADO.NET\\ContactsSystem.sln\\ContactsPresentationLayer\\frmListContacts.cs",
+              "RelativeDocumentMoniker": "ContactsPresentationLayer\\frmListContacts.cs",
+              "ToolTip": "C:\\Users\\bilmo\\source\\repos\\ContantSystem ADO.NET\\ContactsSystem.sln\\ContactsPresentationLayer\\frmListContacts.cs*",
+              "RelativeToolTip": "ContactsPresentationLayer\\frmListContacts.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAewBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:53:42.216Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -25,13 +42,17 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bilmo\\source\\repos\\ContantSystem ADO.NET\\ContactsSystem.sln\\ContactsPresentationLayer\\Form1.cs",
-              "RelativeDocumentMoniker": "ContactsPresentationLayer\\Form1.cs",
-              "ToolTip": "C:\\Users\\bilmo\\source\\repos\\ContantSystem ADO.NET\\ContactsSystem.sln\\ContactsPresentationLayer\\Form1.cs [Design]",
-              "RelativeToolTip": "ContactsPresentationLayer\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frmListContacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bilmo\\source\\repos\\ContantSystem ADO.NET\\ContactsSystem.sln\\ContactsPresentationLayer\\frmListContacts.cs",
+              "RelativeDocumentMoniker": "ContactsPresentationLayer\\frmListContacts.cs",
+              "ToolTip": "C:\\Users\\bilmo\\source\\repos\\ContantSystem ADO.NET\\ContactsSystem.sln\\ContactsPresentationLayer\\frmListContacts.cs [Design]*",
+              "RelativeToolTip": "ContactsPresentationLayer\\frmListContacts.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T09:21:58.826Z",
               "EditorCaption": " [Design]"

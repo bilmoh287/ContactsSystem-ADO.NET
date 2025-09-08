@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ContactsBusinessLayer;
 
 namespace ContactsPresentationLayer
 {
@@ -15,6 +16,21 @@ namespace ContactsPresentationLayer
         public frmListContacts()
         {
             InitializeComponent();
+        }
+
+        private void _RefreshContactsLust()
+        {
+            dgvAllContacts.DataSource = clsContact.GetAllContact();
+        }
+
+        private void dgvAllContacts_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void frmListContacts_Load(object sender, EventArgs e)
+        {
+            _RefreshContactsLust();
         }
     }
 }

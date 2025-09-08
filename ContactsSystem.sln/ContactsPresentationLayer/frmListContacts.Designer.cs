@@ -28,13 +28,43 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.dgvAllContacts = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvAllContacts)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // dgvAllContacts
+            // 
+            this.dgvAllContacts.AllowUserToAddRows = false;
+            this.dgvAllContacts.AllowUserToDeleteRows = false;
+            this.dgvAllContacts.AllowUserToOrderColumns = true;
+            this.dgvAllContacts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvAllContacts.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.dgvAllContacts.Location = new System.Drawing.Point(0, 113);
+            this.dgvAllContacts.Name = "dgvAllContacts";
+            this.dgvAllContacts.ReadOnly = true;
+            this.dgvAllContacts.RowHeadersWidth = 51;
+            this.dgvAllContacts.RowTemplate.Height = 24;
+            this.dgvAllContacts.Size = new System.Drawing.Size(984, 488);
+            this.dgvAllContacts.TabIndex = 0;
+            this.dgvAllContacts.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvAllContacts_CellContentClick);
+            // 
+            // frmListContacts
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(984, 601);
+            this.Controls.Add(this.dgvAllContacts);
+            this.Name = "frmListContacts";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.frmListContacts_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvAllContacts)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.DataGridView dgvAllContacts;
     }
 }
 
