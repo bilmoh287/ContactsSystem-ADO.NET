@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ContactsPresentationLayer
 {
-    public partial class Form1 : Form
+    public partial class frmListContacts : Form
     {
-        public Form1()
+        public frmListContacts()
         {
             InitializeComponent();
         }

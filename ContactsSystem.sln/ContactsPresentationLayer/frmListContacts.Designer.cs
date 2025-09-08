@@ -1,6 +1,6 @@
 ﻿namespace ContactsPresentationLayer
 {
-    partial class Form1
+    partial class frmListContacts
     {
         /// <summary>
         /// Required designer variable.
