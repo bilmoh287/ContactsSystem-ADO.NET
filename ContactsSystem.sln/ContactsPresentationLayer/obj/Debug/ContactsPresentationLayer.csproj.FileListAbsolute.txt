@@ -13,3 +13,19 @@ C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsPre
 C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\Contacts.3D89028D.Up2Date
 C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.exe
 C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.pdb
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.frmAddEditContact.resources
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.frmListContacts.resources
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.Properties.Resources.resources
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.GenerateResource.cache
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.exe.config
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.exe
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.pdb
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\Contacts.3D89028D.Up2Date
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.exe
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.pdb

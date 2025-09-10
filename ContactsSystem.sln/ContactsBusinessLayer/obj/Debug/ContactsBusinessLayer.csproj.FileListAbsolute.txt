@@ -16,3 +16,12 @@ C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsBus
 C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\obj\Debug\Contacts.DFB66D76.Up2Date
 C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
 C:\Users\bilmo\source\repos\ContantSystem ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\obj\Debug\Contacts.DFB66D76.Up2Date
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+C:\Users\bilmo\source\repos\ContactsSystem-ADO.NET\ContactsSystem.sln\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb
